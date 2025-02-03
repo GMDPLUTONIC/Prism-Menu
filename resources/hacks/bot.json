@@ -51,6 +51,13 @@
         "desc": "Export your macro to JSON! (.gdr.json)",
         "type": "button",
         "default": "a"
-    }
-    
+    },
+    {
+        "name": "HI",
+        "desc": "Test!",
+        "type": "dropdown",
+        "default": 0,
+        "values": ["lol"],
+        "save": false
+    },
 ]
