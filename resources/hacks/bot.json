@@ -57,7 +57,7 @@
         "desc": "Test!",
         "type": "dropdown",
         "default": 0,
-        "values": ["lol"],
+        "values": ["Hello", "World"],
         "save": false
     },
 ]
